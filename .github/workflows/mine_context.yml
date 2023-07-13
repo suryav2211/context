@@ -2,7 +2,7 @@ name: my_context
 on:
  issues:
     types: 
-      - opened  
+      - opened
 jobs:
   print_context:
     name: Inspect issue
